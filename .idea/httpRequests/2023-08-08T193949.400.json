@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-08-08T16:39:49.217+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public tv.codelong.thenewboston.dto.ResponseDto<tv.codelong.thenewboston.dto.LoginResponseDto> tv.codelong.thenewboston.controller.AuthController.login(tv.codelong.thenewboston.dto.LoginDto)",
+  "path": "/api/login"
+}

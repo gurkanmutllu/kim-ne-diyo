@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6616c49-bc9f-49e8-bf56-265ce6f5534c" name="Changes" comment="Dto classes updated.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/controller/NewsController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/controller/NewsController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/exception/GlobalExceptionHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/exception/GlobalExceptionHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/service/SecurityService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/service/SecurityService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/service/news/NewsService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/service/news/NewsService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/tv/codelong/thenewboston/service/UserService.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2TQfYo9vH0G6kFlcI79WQLpkKwv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gurkan/Desktop/Sigun/kim-ne-diyo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c22e2fd0848e11d2591c0acde7ea6771&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;PostgreSQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="tv.codelong.thenewboston.service.question" />
+      <recent name="tv.codelong.thenewboston.service.user.dtos" />
+      <recent name="tv.codelong.thenewboston.service.user" />
+      <recent name="tv.codelong.thenewboston.service.news.dtos" />
+      <recent name="tv.codelong.thenewboston.service.news" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TheNewbostonApplication">
+    <configuration name="V2__rename_user_table.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migration/V2__rename_user_table.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="kim-ne-diyo [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="TheNewbostonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="thenewboston.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tv.codelong.thenewboston.TheNewbostonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+        <item itemvalue="Gradle.kim-ne-diyo [clean]" />
+        <item itemvalue="Database Script.V2__rename_user_table.sql" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6616c49-bc9f-49e8-bf56-265ce6f5534c" name="Changes" comment="" />
+      <created>1690980274691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690980274691</updated>
+      <workItem from="1690980275819" duration="1765000" />
+      <workItem from="1690982075225" duration="9296000" />
+      <workItem from="1691041408648" duration="11128000" />
+      <workItem from="1691053070224" duration="1593000" />
+      <workItem from="1691059937340" duration="8010000" />
+      <workItem from="1691071416319" duration="2682000" />
+      <workItem from="1691074134416" duration="4196000" />
+      <workItem from="1691128863982" duration="62000" />
+      <workItem from="1691128927630" duration="17000" />
+      <workItem from="1691128959339" duration="11776000" />
+      <workItem from="1691142328399" duration="1347000" />
+      <workItem from="1691146304020" duration="13181000" />
+      <workItem from="1691388447237" duration="7718000" />
+      <workItem from="1691397537121" duration="3595000" />
+      <workItem from="1691402068295" duration="642000" />
+      <workItem from="1691402727698" duration="222000" />
+      <workItem from="1691403631693" duration="20331000" />
+      <workItem from="1691433744298" duration="106000" />
+      <workItem from="1691439719435" duration="3265000" />
+      <workItem from="1691476156607" duration="20153000" />
+      <workItem from="1691499977781" duration="12763000" />
+      <workItem from="1691561395088" duration="11489000" />
+      <workItem from="1691575989819" duration="16783000" />
+      <workItem from="1691650408276" duration="10662000" />
+      <workItem from="1691668394457" duration="13958000" />
+      <workItem from="1691735499012" duration="21666000" />
+      <workItem from="1691765169922" duration="4114000" />
+      <workItem from="1691784708887" duration="304000" />
+      <workItem from="1691787215329" duration="67000" />
+      <workItem from="1691841470425" duration="92000" />
+      <workItem from="1691994678252" duration="12597000" />
+      <workItem from="1692082040071" duration="13090000" />
+      <workItem from="1692166824705" duration="16295000" />
+      <workItem from="1692253969644" duration="19427000" />
+      <workItem from="1692339969438" duration="7705000" />
+      <workItem from="1692356481151" duration="9138000" />
+      <workItem from="1692600167325" duration="17632000" />
+      <workItem from="1692685481169" duration="12098000" />
+      <workItem from="1692704958938" duration="11365000" />
+      <workItem from="1692718933822" duration="375000" />
+      <workItem from="1692770485611" duration="26415000" />
+      <workItem from="1692858841683" duration="8598000" />
+      <workItem from="1692874761949" duration="7120000" />
+      <workItem from="1692946752808" duration="10530000" />
+      <workItem from="1693042288855" duration="526000" />
+      <workItem from="1693044226430" duration="1564000" />
+      <workItem from="1693132659806" duration="8673000" />
+      <workItem from="1693161250999" duration="1811000" />
+      <workItem from="1693207959024" duration="2577000" />
+      <workItem from="1693395403824" duration="699000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1691133122247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691133122247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1691133172112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691133172112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1691660141150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691660141150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tests added to database. Created TestController and TestService">
+      <option name="closed" value="true" />
+      <created>1691766328653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691766328653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Migrations updated. Migration version 11 added.&#10;Tests, questions and answers added.">
+      <option name="closed" value="true" />
+      <created>1692192495158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692192495158</updated>
+    </task>
+    <task id="LOCAL-00006" summary="News, Test and user services updated.">
+      <option name="closed" value="true" />
+      <created>1692699571965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692699571965</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test service updated. Question and Answer tables added. Questions ans answers are adding to database in TestService class to database. All controller and service classes updated. New dto classes added and some of them updated.">
+      <option name="closed" value="true" />
+      <created>1692860862586</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692860862586</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dto classes updated.">
+      <option name="closed" value="true" />
+      <created>1692880866036</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692880866036</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="Tests added to database. Created TestController and TestService" />
+    <MESSAGE value="Migrations updated. Migration version 11 added.&#10;Tests, questions and answers added." />
+    <MESSAGE value="News, Test and user services updated." />
+    <MESSAGE value="Test service updated. Question and Answer tables added. Questions ans answers are adding to database in TestService class to database. All controller and service classes updated. New dto classes added and some of them updated." />
+    <MESSAGE value="Dto classes updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dto classes updated." />
+  </component>
+</project>

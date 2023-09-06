@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+@keyframes moveText {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(200px); /* Yazının sağa doğru 200 piksel kaymasını sağlar */
+    }
+}
+
+@keyframes colorChange {
+    0% {
+        color: #023047;
+    }
+    30% {
+        color: #80ffdb;
+    }
+
+    70% {
+        color: #1a759f;
+    }
+    100% {
+        color: #023e8a;
+    }
+}
+body {
+    background-color: #121420;
+    font-size: 16px; /* Varsayılan font boyutu */
+}
+h1 {
+    text-align: center;
+    color: #911513;
+    animation: colorChange 2s infinite;
+}
+.carouselStyle{
+    padding: 4rem;
+}
+.formStyle {
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to bottom, #ddfff7, #7d5ba6);
+    color: white;
+    border-radius: 2rem;
+    width: 80%; /* Formun genişliği düşürüldü */
+}
+.formStyleLogin {
+    min-height: 41rem;
+    display: grid;
+    align-items: center;
+    width: 55%;
+    padding: 20px;
+    background: linear-gradient(to bottom, #ddfff7, #7d5ba6);
+    border-radius: 2rem;
+    margin: 0 auto;
+
+}
+.titleStyle {
+    font-weight: bolder;
+    font-size: 30px; /* Font boyutu belirtilmeli */
+    color: #121420;
+    text-align: center;
+}
+
+.rowStyle {
+    width: 90%; /* Daha uyumlu bir değer verildi */
+    max-width: 1200px; /* En fazla genişlik belirlendi */
+    margin: 0 auto; /* Ortalıya almak için */
+    display: flex;
+    flex-wrap: wrap; /* Eğer bileşenler yan yana sığmazsa alt alta geçecek */
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 16px);
+
+
+}
+.layout{
+    height: calc(100vh - 16px)
+}
+.registerScroll {
+    max-height: 600px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.scroll-content {
+    /* İçeriğin genişliği, kaydırma çubuğu nedeniyle içeride kalmalıdır */
+    width: calc(100% - 10px);
+    /* İçeriğin yüksekliği, gerektiğinde artırılabilir */
+}
+
+/* Kaydırma çubuğu stilleri */
+.registerScroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.registerScroll::-webkit-scrollbar-thumb {
+    background-color: #f8edeb;
+    border-radius: 4px;
+}
+
+.registerScroll::-webkit-scrollbar-thumb:hover {
+    background-color: #abc4ff;
+}
+
+.registerScroll::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+img {
+    width: 100%;
+    max-width: 400px; /* Maksimum genişlik belirlendi */
+    height: auto; /* Orantılı olarak yükseklik ayarlandı */
+    margin-right: 0; /* Gereksiz boşluk kaldırıldı */
+}
+
+label {
+    display: block;
+    color: #1b263b;
+    font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+    font-weight: 600;
+    color: #023047;
+    margin: 0.8rem;
+    width: 90%; /* Tam genişlikli olacak şekilde ayarlandı */
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 0.15rem inset #f6f6f6;
+    border-radius: 0.8rem;
+    background-color: #f6f6f6;
+}
+
+
+.actionButton {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.deger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.rowStyleLogin {
+    display: flex;
+    min-height: 40rem;
+    align-items: center;
+}
+
+button {
+    display: inline-flex;
+    padding: 12px 23px;
+    background-color: #121420;
+    color: #fff;
+    border: 2px solid #121420;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6745c4;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* Responsive tasarım için media query */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px; /* Daha küçük bir font boyutu */
+    }
+
+
+    .gif {
+        display: flex;
+        justify-content: center;
+    }
+
+    img {
+        width: 100%;
+        max-width: 100%; /* Maksimum genişlik 100% olarak ayarlandı */
+        height: auto;
+        margin-right: 0;
+        margin-top: 20px; /* Gereksiz boşluk kaldırıldı ve yukarıda durması sağlandı */
+    }
+
+
+
+
+    input[type="text"],
+    input[type="date"],
+    textarea {
+        width: 81%; /* Tam genişlikli olacak şekilde ayarlandı */
+
+    }
+}
